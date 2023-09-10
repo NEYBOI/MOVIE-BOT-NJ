@@ -329,7 +329,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ, url="https://t.me/movierequestgroupNj"),
+                      InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url="https://t.me/movierequestgroupNj"),
                       InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
                       InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/neymar_boi")
